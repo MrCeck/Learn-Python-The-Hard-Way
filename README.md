@@ -4,10 +4,10 @@ This is my repo for all the exercises in the book Learn Python The Hard Way by Z
 ## Overview
 This repository contains my personal solutions and notes for the exercises from the book **"Learn Python The Hard Way"** (5th Edition) by Zed Shaw.
 
-The goal of the repo is to document my progress as I learn Python and build an habit of daily version control wiyh Git and GitHub.
+The goal of the repo is to document my progress as I learn Python and build a habit of daily version control with Git and GitHub.
 
-## Envoirment & Tools
-* **Linguage:** Python 3.13+
+## Enviroment & Tools
+* **Language:** Python 3.13+
 * **Editor:** Visual Studio Code
 * **OS:** Windows
 
@@ -26,7 +26,7 @@ In this exercise I got familiar with the use of print(), and learned how to use 
 
 </details>
 
-### Ex 2: Comment
+### Ex 02: Comment
 
 <details>
 <summary> <b> Study Drills & Notes (Click to expand) </b> </summary>
@@ -35,3 +35,22 @@ In this exercise I got familiar with the use of print(), and learned how to use 
 In this exercise I found out about the hash character and some type of review I can do on my code to check if there are sone errors.
 
 </details>
+
+### Ex 03: Math
+
+<details>
+<summary> <b> Study Drills & Notes (Click to expand) </b> </summary>
+
+#### What I Learned 
+In this exercises I understood how math and operator works in python, the order for resolution in expression and comparison with greater or less.
+
+These are the symbols and what they do:
+* **+ plus:** does the addition.
+* **- minus:** does the subtraction.
+* **/ slash:** does the division.
+* **asterisk * :** does the multiplication.
+* **% percent:** does the the divison between two numbers and gives back the remaining part of it. Ex. 10 divided by 3 is 3 with remaining of 1.
+* **< less-than:** gives true if the first number is less than the second.
+* **> greater-than:** gives true if the first number is greater than the second.
+* **<= less-than-equal:** gives true if the first number is less or equal than the second.
+* **>= greater-than-equal:** gives true if the first number is greater or equal than the second.
