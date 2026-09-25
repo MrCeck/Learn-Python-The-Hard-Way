@@ -54,3 +54,21 @@ These are the symbols and what they do:
 * **> greater-than:** gives true if the first number is greater than the second.
 * **<= less-than-equal:** gives true if the first number is less or equal than the second.
 * **>= greater-than-equal:** gives true if the first number is greater or equal than the second.
+</details>
+
+### Ex 04: Variables and Names
+
+<details>
+<summary> <b> Study Drills & Notes (Click to expand) </b> </summary>
+
+#### What I Learned 
+In this exercise I learned how to assign values to a variable, that can be an integer, a floating point, a string other variables or the result of some variables with math operators.
+</details>
+
+### Ex 05: More Variables and Printing
+
+<details>
+<summary> <b> Study Drills & Notes (Click to expand) </b> </summary>
+
+#### What I Learned 
+In this exercise I practiced more usage of Variables and I have done more printing 
