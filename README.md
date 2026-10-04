@@ -72,3 +72,27 @@ In this exercise I learned how to assign values to a variable, that can be an in
 
 #### What I Learned 
 In this exercise I practiced more usage of Variables and I have done more printing 
+</details>
+
+### Ex 06: Strings and Text
+
+<details>
+<summary> <b> Study Drills & Notes (Click to expand) </b> </summary>
+
+#### What I Learned 
+In this exercise I learned how to use f-string, and how we can nest them,
+I also learned the method *.format()*: 
+
+This method can insert variables, strings or numbers in a palceholder inside the string of a variable. Placeholder are defined by: {}
+
+I also learned how join two string: using the sybol + we can make one string out of two or more.
+</details>
+
+### Ex 07: Combining Strings 
+
+<details>
+<summary> <b> Study Drills & Notes (Click to expand) </b> </summary>
+
+#### What I Learned 
+In this exercise I learned how to add more variables that contain strings, and the use of end="": adds the value specificated and makes the next print on the same line, just after the value specificated  
+</details>
