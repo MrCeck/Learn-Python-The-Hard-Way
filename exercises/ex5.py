@@ -48,4 +48,4 @@ print(f"His teeth are usually {teeth} depending on the coffee.")
 total = age + height + weight
 print(f"if i add {age}, {height}, and {weight} I get {total}.")
 
-print(inches_to_cm, cm_to_inches, pound_to_kg, kg_to_pound)
+print(round(inches_to_cm, 2), round(cm_to_inches, 2), round(pound_to_kg, 2), round(kg_to_pound, 2))
