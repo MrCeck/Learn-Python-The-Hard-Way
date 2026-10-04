@@ -96,3 +96,12 @@ I also learned how join two string: using the sybol + we can make one string out
 #### What I Learned 
 In this exercise I learned how to add more variables that contain strings, and the use of end="": adds the value specificated and makes the next print on the same line, just after the value specificated  
 </details>
+
+### Ex 08:  Formatting String Manually 
+
+<details>
+<summary> <b> Study Drills & Notes (Click to expand) </b> </summary>
+
+#### What I Learned 
+In this exercise I learned how to use .format(), using a variable that has some placeholder inside.  
+</details>
