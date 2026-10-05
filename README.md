@@ -105,3 +105,14 @@ In this exercise I learned how to add more variables that contain strings, and t
 #### What I Learned 
 In this exercise I learned how to use .format(), using a variable that has some placeholder inside.  
 </details>
+
+### Ex 09:  Multi-Line Strings
+
+<details>
+<summary> <b> Study Drills & Notes (Click to expand) </b> </summary>
+
+#### What I Learned 
+In this exercise I learned that we can print strings on multiple lines. 
+We can use the new line character \n that makes the text continue after it on the next line.
+We can also use the multiline string using """ """, the text inside will be printed exactly as it is written.
+</details>
