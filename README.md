@@ -116,3 +116,29 @@ In this exercise I learned that we can print strings on multiple lines.
 We can use the new line character \n that makes the text continue after it on the next line.
 We can also use the multiline string using """ """, the text inside will be printed exactly as it is written.
 </details>
+
+### Ex 10:  Escape Codes in Strings
+
+<details>
+<summary> <b> Study Drills & Notes (Click to expand) </b> </summary>
+
+#### What I Learned 
+In this exercise I learned how to use some escape sequences that allow us to insert certain characters inside strings without raising an error.
+
+Here are some escape sequences:
+* \\\ -> Backslash (\\)
+* \\' -> Single-quote (')
+* \\" -> Double-quote (")
+* \a -> ASCII bell, can produce sounds
+* \b -> ASCII backspace
+* \f -> ASCII formfeed, used for printing text with printers
+* \n -> linefeed
+* \N{name} -> Character named name in the Unicode database
+* \r -> Carriage return, move the cursor back to the start of the line
+* \t -> Horizontal Tab
+* \v -> Vertical Tab
+* \uxxxx -> Character with 16-bit hex value
+* \Uxxxxxxxx -> Character with 32-bit hex value
+* \ooo -> Character with octal value
+* \xhh -> Character with hex value  
+</details>
