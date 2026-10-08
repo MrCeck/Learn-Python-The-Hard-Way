@@ -142,3 +142,12 @@ Here are some escape sequences:
 * \ooo -> Character with octal value
 * \xhh -> Character with hex value  
 </details>
+
+### Ex 11:  Asking People Questions
+
+<details>
+<summary> <b> Study Drills & Notes (Click to expand) </b> </summary>
+
+#### What I Learned 
+In this exercise I learned how to use the built-in function input(), this function takes from the terminal a text-prompt from the user types, return its as a string. If we use int(input()) the function don't gives back a string but an integer thanks to the int() function. 
+</details>
