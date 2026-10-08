@@ -151,3 +151,15 @@ Here are some escape sequences:
 #### What I Learned 
 In this exercise I learned how to use the built-in function input(), this function takes from the terminal a text-prompt from the user types, return its as a string. If we use int(input()) the function don't gives back a string but an integer thanks to the int() function. 
 </details>
+
+### Ex 12:  An Easier Way to Prompt
+
+<details>
+<summary> <b> Study Drills & Notes (Click to expand) </b> </summary>
+
+#### What I Learned 
+In this exercise I learned that I can use the input() function directly with a string inside to print something in the terminal correlated to the input prompt. 
+
+I also learned that I can check documentation of function directly from the by hovering the cursor over it, or using the python terminal and using help().
+I tried with help(print) and I found out that it takes objects and prints it on the text stram file. All the non-keyword arguments are converted to strings. 
+</details>
